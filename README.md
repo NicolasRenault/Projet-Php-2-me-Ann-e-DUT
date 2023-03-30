@@ -1,8 +1,7 @@
 # Todo List
 ### EN
 
-This is a second year project of my two-year university degree in computer science. The purpose of this project was to introduce us to PHP website developpement.
-We was to create a TODO-List website higlighting data bases and security.
+This is a second-year project of my two-year university degree in computer science. The purpose of this project was to introduce us to PHP website development. We have to create a TODO-List website highlighting databases and security.
 
 This project was carried out in pairs with the help of Antoni Di Lella.
 
